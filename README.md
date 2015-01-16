@@ -1,4 +1,3 @@
-# algorithm
-绠楁硶鏁寸悊
-
-更新内容
+算法整理
+---
+bitmap.c : 使用bitmap进行数据查找和排序
